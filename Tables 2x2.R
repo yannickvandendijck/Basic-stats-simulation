@@ -8,8 +8,8 @@
 
 
 ### 2x2 Table
-# n11  n12
-# n21  n22
+# n11  n12 (group 1)
+# n21  n22 (group 2)
 
 ### Tests used
 # TEST 1: Chi-square test without Yates' continuity correction
